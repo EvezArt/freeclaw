@@ -1,0 +1,16 @@
+{
+  "name": "FreeClaw",
+  "short_name": "FreeClaw",
+  "description": "100% Free AI Assistant — no limits, no cost",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#6c5ce7",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "en"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "freeclaw",
+  "version": "1.0.0",
+  "description": "Free self-hosted AI assistant with PWA mobile support",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "ws": "^8.18.0"
+  }
+}

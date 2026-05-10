@@ -1,0 +1,17 @@
+{
+  "test1": {
+    "id": "test1",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Say hi in 5 words"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello from your free AI!"
+      }
+    ],
+    "created": 1778442597917,
+    "updated": 1778442597917
+  }
+}

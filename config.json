@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://api.vultrinference.com/v1",
+  "defaultModel": "zai-org/GLM-5.1-FP8",
+  "systemPrompt": "You are FreeClaw — a free, fun, smart AI assistant. You have personality, you're concise, and you actually help. No filler, no corporate speak. You crack jokes when appropriate but always deliver real answers. You run on free infrastructure and you're proud of it.",
+  "models": [
+    { "id": "zai-org/GLM-5.1-FP8", "name": "GLM-5.1", "desc": "Best overall — smart & fast" },
+    { "id": "nvidia/DeepSeek-V3.2-NVFP4", "name": "DeepSeek V3.2", "desc": "Great for code & reasoning" },
+    { "id": "MiniMaxAI/MiniMax-M2.5", "name": "MiniMax M2.5", "desc": "Balanced & quick" },
+    { "id": "moonshotai/Kimi-K2.5", "name": "Kimi K2.5", "desc": "Vision-capable" }
+  ]
+}
