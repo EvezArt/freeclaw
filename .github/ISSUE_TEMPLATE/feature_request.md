@@ -6,6 +6,4 @@ labels: enhancement
 ---
 
 ## Is your feature request related to a problem?
-A clear description.
-## Describe the solution you'd like
-A clear description.
+A clear description of the problem is.
